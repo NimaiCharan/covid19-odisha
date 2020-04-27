@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "covid19-odisha",
+  "private_key_id": "6861b9b6f4d099a1c4df8784a823a6328550ac28",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDSF4IslDsQNrpq\n35vtAtFIr4KYusV4fCaucg0AVqNhEqhI4OsQ+Q7VHpkZFTa7WUOBtoqcDqZBSkxh\nZvo51kOf7WZoaYUzQ5O22030esNV1zLgr6G6BwxTb7y6/9nH+L9+AKOKOgdWtQ4L\nYzDz38id/oIJS7340LE6YTHgpDX7b9xepxnbCNqhWptGn26VtmObxJlkGnxB59yN\nkE61wzipoI2C/vPP3M9XuKT1xJaw6xCmUCJCXIVzZ6YnSMWJMmzbI75y5TZnCPMl\n/kaL6nSY8VGYsE1oIPr0xh4O+6YzUZgKvrN1QSX3zMPGei5OjGo9d4eNxGRjP02B\nKLwBSf0VAgMBAAECggEALckOxv1U898heEocFqZ/CqqpOPS3NV9FJM5ZNAItn+mr\ngBp4UB4fE+YTsmozn9e/xQSNp53vsJnrFG0XSkR+P1vC7i1U6IupJPgdQJMCf/Ii\nteHAyqRflM1soYpBoXl97g1glq63y7cwhN3MnNFfzMLa/wChOZjtjs4AyzauRwm/\n1UrZJZPhVgk5vixY/LvXIXgQOIQU1okraD+KP9vQWwrliL1q3iLI0RHAPn/C3Q0f\nVt2LWryAGqP9Y85r3/Tnmmr1t4MvH4F1YAQA7WUMTOVawILf9iox4iFDOhEGuyVZ\nxc8AsvtlnlBdl7mXD5+oN/Ljf/nOT4kzpXvX797YnwKBgQD8v0wLIl6YUv5/2fI/\nLp2K1oiquia3jIZOK1XY9BBRHuqK5BkAbvGuYvdu2Qy7bFBa5A8TVlSm/y8hZurF\ns3vhZ13mjBooMiqB7INBzfGxWeEEKqmwfA/AT3gXfoeMzS8lA7Q//l8VVqX49cl5\nfaqbjiHZU6EeXyF8k4YzNvPbFwKBgQDUy623HCkwiTG/ZTfuppP/CqsX/spLd9/n\nWeK7GPqR4q130tDqN+xpQVoUb/moeYHjHaRTnF62uQwhD8YnFOh/eSPTW7jujuip\nPx6syB3/EZ1RL/GUYXCllWmatZ+Yc0xduxwURSavcQ18NS2WPiAIkZQxCgPmvBj0\nmADFd+YUswKBgG8EzC872pdIJVgdcMYGANeCYqezetw3Eqt1Z5ETq7MmRFnb1YuW\nL/yspgj/uBL/gdBayrBwxGBSSO6AGXHb4/dfgySIt9ieKIPHUuRtxNNlKmy9HKpT\n5EtR3Otc/ceAPUwh82QEpNlnpSHVPLlr1KvdY8rlbCk+GiRxXIpUggrjAoGAKUWj\n2Lr+hipl2rBgC8qFM9c23f2N8Ns8Mxvs7MrodnkXmgDqgjL8iGGjfglFy9ZdSdaK\n86iFej0jzBnKHfRhL7AoMas9kA9pssHKSkq5/qnE8GUzHstTVNpI1Dfbz261ZgyP\nYqMS4L41llyeDeDYx7CspGJD5XGgCXid1a7ukh8CgYAMqY++9yCrxmo8plsXRRtb\nFczuJxKB+rz+2u6SLQ5X2oaI0HjmEwX5mnqTaijDhPtHRT2jgAPtXDzLmgCQZiiJ\nX3rCKJALQ7k2ioS9TvlVR/8WHGWQB0HHaQpf6X4i4Oqa6KCMK2OjvVZcLUy6W89m\neY5jSAarwGtQh2SQYplcSQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-4tgx1@covid19-odisha.iam.gserviceaccount.com",
+  "client_id": "105787597913949178323",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-4tgx1%40covid19-odisha.iam.gserviceaccount.com"
+}

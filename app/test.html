@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>test Chart</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
+    
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Roboto);
+
+      body {
+        font-family: Roboto, sans-serif;
+      }
+
+      #chart {
+        max-width: 150px;
+        max-height: 250px;
+        margin: 35px auto;
+      }
+    </style>
+  </head>
+  <body>
+    <canvas id="chart"></canvas>
+    <script>
+
+      var data;
+      async function draw()
+      {
+        var response =await  fetch("https://us-central1-covid19-odisha.cloudfunctions.net/getNumbers");
+         data =await  response.json();
+        console.log(data);
+            var date=[];
+            var confirm=[];
+            var active=[];
+            var recov=[];
+            for(var i=0;i<data.length;i++){
+                date[i]=data[i].date;
+                confirm[i]=data[i].confirmed;
+                active[i] = data[i].active;
+                recov[i] = data[i].recovered;
+            }
+            
+            console.log(confirm);
+      var ctx = document.getElementById('chart').getContext('2d');
+            var myChart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: date,
+                    datasets: [{
+                        //label: 'Confirmed',
+                        data: confirm,
+                        borderColor: "#FF4500",
+                        fill: false
+                    }, {
+                        //label: 'Active',
+                        data: active,
+                        borderColor: '#0000FF',
+                        fill: false
+                    },
+                    {
+                       // label: 'Recovered',
+                        data: recov,
+                        borderColor: '#008000',
+                        fill: false
+                    }],
+                    
+                    borderColor: ['rgba(255, 206, 86, 1)',
+                    'rgba(255, 99, 132, 1)'
+
+                  ]
+          
+                },
+                options: {
+                  legend:{
+                    display:false
+                  },
+                    scales: {
+                        yAxes: [{
+                            ticks: {
+                                beginAtZero: true,
+                                display: false
+                            },
+                            gridLines:{
+                              display:false
+                            }
+                        }],
+                        xAxes: [{
+                            ticks: {
+                                beginAtZero: true,
+                                display: false
+                            },
+                            gridLines:{
+                              display:false
+                            }
+                        }]
+                    }
+                }
+            });
+      }
+      draw();
+
+        
+    </script>
+    
+  </body>
+</html>

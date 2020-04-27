@@ -1,0 +1,1103 @@
+{
+    "raw": [
+        {
+            "patientnumber": 1,
+            "agebracket": 31,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-03-15T18:30:00.000Z",
+            "detectedcity": "Bhubaneswar",
+            "detecteddistrict": "Khordha",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 2,
+            "agebracket": 19,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-03-18T18:30:00.000Z",
+            "detectedcity": "Bhubaneswar",
+            "detecteddistrict": "Khordha",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 3,
+            "agebracket": 60,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-03-25T18:30:00.000Z",
+            "detectedcity": "Bhubaneswar",
+            "detecteddistrict": "Khordha",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 4,
+            "agebracket": 29,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-03-30T18:30:00.000Z",
+            "detecteddistrict": "Bhadrak",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 5,
+            "agebracket": 60,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-03-31T18:30:00.000Z",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 6,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-02T18:30:00.000Z",
+            "detecteddistrict": "Cuttack"
+        },
+        {
+            "patientnumber": 7,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-02T18:30:00.000Z",
+            "detectedcity": "Bomikhal",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 8,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-02T18:30:00.000Z",
+            "detectedcity": "Bomikhal",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 9,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-02T18:30:00.000Z",
+            "detectedcity": "Bomikhal",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 10,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-02T18:30:00.000Z",
+            "detecteddistrict": "Khordha",
+            "gender": "F"
+        },
+        {
+            "patientnumber": 11,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-02T18:30:00.000Z",
+            "detecteddistrict": "Khordha",
+            "gender": "F"
+        },
+        {
+            "patientnumber": 12,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-02T18:30:00.000Z",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 13,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-02T18:30:00.000Z",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 14,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-02T18:30:00.000Z",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 15,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-02T18:30:00.000Z",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 16,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-02T18:30:00.000Z",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 17,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-02T18:30:00.000Z",
+            "detecteddistrict": "Puri"
+        },
+        {
+            "patientnumber": 18,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-02T18:30:00.000Z",
+            "detecteddistrict": "Jajapur"
+        },
+        {
+            "patientnumber": 19,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-02T18:30:00.000Z",
+            "detecteddistrict": "Bhadrak"
+        },
+        {
+            "patientnumber": 20,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-02T18:30:00.000Z",
+            "detecteddistrict": "Bhadrak"
+        },
+        {
+            "patientnumber": 21,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-03T18:30:00.000Z",
+            "detecteddistrict": "Kalahandi"
+        },
+        {
+            "patientnumber": 22,
+            "agebracket": 70,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-04T18:30:00.000Z",
+            "detectedcity": "Bhimatangi, Bhubaneswar",
+            "detecteddistrict": "Khordha",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 23,
+            "agebracket": 29,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-04T18:30:00.000Z",
+            "detectedcity": "Bomikhal, Bhubaneswar",
+            "detecteddistrict": "Khordha",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 24,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-04T18:30:00.000Z",
+            "detectedcity": "Bhubaneswar",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 25,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-04T18:30:00.000Z",
+            "detectedcity": "Bhubaneswar",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 26,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-04T18:30:00.000Z",
+            "detectedcity": "Bhubaneswar",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 27,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-04T18:30:00.000Z",
+            "detectedcity": "Bhubaneswar",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 28,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-04T18:30:00.000Z",
+            "detectedcity": "Bhubaneswar",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 29,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-04T18:30:00.000Z",
+            "detectedcity": "Bhubaneswar",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 30,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-04T18:30:00.000Z",
+            "detectedcity": "Bhubaneswar",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 31,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-04T18:30:00.000Z",
+            "detectedcity": "Bhubaneswar",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 32,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-04T18:30:00.000Z",
+            "detectedcity": "Bhubaneswar",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 33,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-04T18:30:00.000Z",
+            "detectedcity": "Bhubaneswar",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 34,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-04T18:30:00.000Z",
+            "detectedcity": "Bhubaneswar",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 35,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-04T18:30:00.000Z",
+            "detectedcity": "Bhubaneswar",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 36,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-04T18:30:00.000Z",
+            "detectedcity": "Bhubaneswar",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 37,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-04T18:30:00.000Z",
+            "detectedcity": "Bhubaneswar",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 38,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-04T18:30:00.000Z",
+            "detectedcity": "Bhubaneswar",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 39,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-04T18:30:00.000Z",
+            "detectedcity": "Bhubaneswar",
+            "detecteddistrict": "Khordha"
+        },
+        {
+            "patientnumber": 40,
+            "agebracket": 32,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-05T18:30:00.000Z",
+            "detecteddistrict": "Kendrapara",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 41,
+            "agebracket": 45,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-06T18:30:00.000Z",
+            "detecteddistrict": "Khordha",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 42,
+            "agebracket": 72,
+            "currentstatus": "Deceased",
+            "dateannounced": "2020-04-06T18:30:00.000Z",
+            "detectedcity": "Jharpada",
+            "detecteddistrict": "Khordha",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 43,
+            "agebracket": 69,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-08T18:30:00.000Z",
+            "detecteddistrict": "Khordha",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 44,
+            "agebracket": 51,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-08T18:30:00.000Z",
+            "detecteddistrict": "Dhenkanal",
+            "gender": "F"
+        },
+        {
+            "patientnumber": 45,
+            "agebracket": 20,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-08T18:30:00.000Z",
+            "detectedcity": "Golamunda",
+            "detecteddistrict": "Kalahandi",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 46,
+            "agebracket": 37,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-08T18:30:00.000Z",
+            "detectedcity": "Jharpada",
+            "detecteddistrict": "Khordha",
+            "gender": "F"
+        },
+        {
+            "patientnumber": 47,
+            "agebracket": 9,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-08T18:30:00.000Z",
+            "detectedcity": "Jharpada",
+            "detecteddistrict": "Khordha",
+            "gender": "F"
+        },
+        {
+            "patientnumber": 48,
+            "agebracket": 5,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-08T18:30:00.000Z",
+            "detectedcity": "Jharpada",
+            "detecteddistrict": "Khordha",
+            "gender": "F"
+        },
+        {
+            "patientnumber": 49,
+            "agebracket": 35,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-09T18:30:00.000Z",
+            "detectedcity": "Madhusudan",
+            "detecteddistrict": "Khordha",
+            "gender": "F"
+        },
+        {
+            "patientnumber": 50,
+            "agebracket": 22,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-09T18:30:00.000Z",
+            "detectedcity": "Madhusudan",
+            "detecteddistrict": "Khordha",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 51,
+            "agebracket": 67,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-10T18:30:00.000Z",
+            "detecteddistrict": "Sundargarh",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 52,
+            "agebracket": 18,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-10T18:30:00.000Z",
+            "detecteddistrict": "Sundargarh",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 53,
+            "agebracket": 17,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-10T18:30:00.000Z",
+            "detecteddistrict": "Kendrapara",
+            "gender": "F"
+        },
+        {
+            "patientnumber": 54,
+            "agebracket": 46,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-10T18:30:00.000Z",
+            "detecteddistrict": "Khordha",
+            "gender": "F"
+        },
+        {
+            "patientnumber": 55,
+            "agebracket": 35,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-12T18:30:00.000Z",
+            "detecteddistrict": "Khordha",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 56,
+            "agebracket": 66,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-13T18:30:00.000Z",
+            "detecteddistrict": "Jajapur",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 57,
+            "agebracket": 50,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-13T18:30:00.000Z",
+            "detectedcity": "Bomikhal",
+            "detecteddistrict": "Khordha",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 58,
+            "agebracket": 51,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-13T18:30:00.000Z",
+            "detectedcity": "Bomikhal",
+            "detecteddistrict": "Khordha",
+            "gender": "F"
+        },
+        {
+            "patientnumber": 59,
+            "agebracket": 75,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-13T18:30:00.000Z",
+            "detectedcity": "Bomikhal",
+            "detecteddistrict": "Khordha",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 60,
+            "agebracket": 51,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-13T18:30:00.000Z",
+            "detectedcity": "Bhubaneshwar",
+            "detecteddistrict": "Khordha",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 61,
+            "agebracket": 58,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-17T18:30:00.000Z",
+            "detecteddistrict": "Baleshwar",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 62,
+            "agebracket": 48,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-19T18:30:00.000Z",
+            "detecteddistrict": "Bhadrak",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 63,
+            "agebracket": 55,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-19T18:30:00.000Z",
+            "detecteddistrict": "Bhadrak",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 64,
+            "agebracket": 57,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-19T18:30:00.000Z",
+            "detecteddistrict": "Bhadrak",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 65,
+            "agebracket": 58,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-19T18:30:00.000Z",
+            "detecteddistrict": "Bhadrak",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 66,
+            "agebracket": 66,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-19T18:30:00.000Z",
+            "detecteddistrict": "Bhadrak",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 67,
+            "agebracket": 32,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-19T18:30:00.000Z",
+            "detecteddistrict": "Baleshwar",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 68,
+            "agebracket": 2,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-19T18:30:00.000Z",
+            "detecteddistrict": "Baleshwar",
+            "gender": "F"
+        },
+        {
+            "patientnumber": 69,
+            "agebracket": 40,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-19T18:30:00.000Z",
+            "detecteddistrict": "Sundargarh",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 70,
+            "agebracket": 28,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-19T18:30:00.000Z",
+            "detecteddistrict": "Jajapur",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 71,
+            "agebracket": 32,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-19T18:30:00.000Z",
+            "detecteddistrict": "Jajapur",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 72,
+            "agebracket": 50,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-19T18:30:00.000Z",
+            "detecteddistrict": "Jajapur",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 73,
+            "agebracket": 58,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-19T18:30:00.000Z",
+            "detecteddistrict": "Jajapur",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 74,
+            "agebracket": 64,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-19T18:30:00.000Z",
+            "detecteddistrict": "Jajapur",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 75
+        },
+        {
+            "patientnumber": 76
+        },
+        {
+            "patientnumber": 77
+        },
+        {
+            "patientnumber": 78
+        },
+        {
+            "patientnumber": 79
+        },
+        {
+            "patientnumber": 80
+        },
+        {
+            "patientnumber": 81
+        },
+        {
+            "patientnumber": 82
+        },
+        {
+            "patientnumber": 83
+        },
+        {
+            "patientnumber": 84
+        },
+        {
+            "patientnumber": 85
+        },
+        {
+            "patientnumber": 86
+        },
+        {
+            "patientnumber": 87
+        },
+        {
+            "patientnumber": 88
+        },
+        {
+            "patientnumber": 89
+        },
+        {
+            "patientnumber": 90,
+            "agebracket": 40,
+            "currentstatus": "hospitalized",
+            "dateannounced": "2020-04-23T18:30:00.000Z",
+            "detecteddistrict": "bhadrak",
+            "gender": "M"
+        }
+    ],
+    "numbers": [
+        {
+            "date": "2020-03-20T18:30:00.000Z",
+            "confirmed": 2,
+            "active": 2,
+            "recovered": 0,
+            "deceased": 0,
+            "testing": 61
+        },
+        {
+            "date": "2020-03-21T18:30:00.000Z",
+            "confirmed": 2,
+            "active": 2,
+            "recovered": 0,
+            "deceased": 0,
+            "testing": 85
+        },
+        {
+            "date": "2020-03-22T18:30:00.000Z",
+            "confirmed": 2,
+            "active": 2,
+            "recovered": 0,
+            "deceased": 0,
+            "testing": 110
+        },
+        {
+            "date": "2020-03-23T18:30:00.000Z",
+            "confirmed": 2,
+            "active": 2,
+            "recovered": 0,
+            "deceased": 0,
+            "testing": 133
+        },
+        {
+            "date": "2020-03-24T18:30:00.000Z",
+            "confirmed": 2,
+            "active": 2,
+            "recovered": 0,
+            "deceased": 0,
+            "testing": 164
+        },
+        {
+            "date": "2020-03-25T18:30:00.000Z",
+            "confirmed": 3,
+            "active": 3,
+            "recovered": 0,
+            "deceased": 0,
+            "testing": 189
+        },
+        {
+            "date": "2020-03-26T18:30:00.000Z",
+            "confirmed": 3,
+            "active": 3,
+            "recovered": 0,
+            "deceased": 0,
+            "testing": 226
+        },
+        {
+            "date": "2020-03-27T18:30:00.000Z",
+            "confirmed": 3,
+            "active": 3,
+            "recovered": 0,
+            "deceased": 0,
+            "testing": 297
+        },
+        {
+            "date": "2020-03-28T18:30:00.000Z",
+            "confirmed": 3,
+            "active": 3,
+            "recovered": 0,
+            "deceased": 0,
+            "testing": 370
+        },
+        {
+            "date": "2020-03-29T18:30:00.000Z",
+            "confirmed": 3,
+            "active": 3,
+            "recovered": 0,
+            "deceased": 0,
+            "testing": 473
+        },
+        {
+            "date": "2020-03-30T18:30:00.000Z",
+            "confirmed": 4,
+            "active": 4,
+            "recovered": 0,
+            "deceased": 0,
+            "testing": 610
+        },
+        {
+            "date": "2020-03-31T18:30:00.000Z",
+            "confirmed": 5,
+            "active": 5,
+            "recovered": 0,
+            "deceased": 0,
+            "testing": 900
+        },
+        {
+            "date": "2020-04-01T18:30:00.000Z",
+            "confirmed": 5,
+            "active": 4,
+            "recovered": 1,
+            "deceased": 0,
+            "testing": 1113
+        },
+        {
+            "date": "2020-04-02T18:30:00.000Z",
+            "confirmed": 20,
+            "active": 18,
+            "recovered": 2,
+            "deceased": 0,
+            "testing": 1395
+        },
+        {
+            "date": "2020-04-03T18:30:00.000Z",
+            "confirmed": 21,
+            "active": 19,
+            "recovered": 2,
+            "deceased": 0,
+            "testing": 1699
+        },
+        {
+            "date": "2020-04-04T18:30:00.000Z",
+            "confirmed": 39,
+            "active": 36,
+            "recovered": 2,
+            "deceased": 0,
+            "testing": 1888
+        },
+        {
+            "date": "2020-04-05T18:30:00.000Z",
+            "confirmed": 40,
+            "active": 37,
+            "recovered": 2,
+            "deceased": 1,
+            "testing": 2190
+        },
+        {
+            "date": "2020-04-06T18:30:00.000Z",
+            "confirmed": 42,
+            "active": 39,
+            "recovered": 2,
+            "deceased": 1,
+            "testing": 2441
+        },
+        {
+            "date": "2020-04-07T18:30:00.000Z",
+            "confirmed": 42,
+            "active": 39,
+            "recovered": 2,
+            "deceased": 1,
+            "testing": 2841
+        },
+        {
+            "date": "2020-04-08T18:30:00.000Z",
+            "confirmed": 48,
+            "active": 45,
+            "recovered": 2,
+            "deceased": 1,
+            "testing": 3249
+        },
+        {
+            "date": "2020-04-09T18:30:00.000Z",
+            "confirmed": 50,
+            "active": 37,
+            "recovered": 12,
+            "deceased": 1,
+            "testing": 3547
+        },
+        {
+            "date": "2020-04-10T18:30:00.000Z",
+            "confirmed": 54,
+            "active": 41,
+            "recovered": 12,
+            "deceased": 1,
+            "testing": 3862
+        },
+        {
+            "date": "2020-04-11T18:30:00.000Z",
+            "confirmed": 54,
+            "active": 36,
+            "recovered": 18,
+            "deceased": 1,
+            "testing": 4170
+        },
+        {
+            "date": "2020-04-12T18:30:00.000Z",
+            "confirmed": 56,
+            "active": 37,
+            "recovered": 18,
+            "deceased": 1,
+            "testing": 4734
+        },
+        {
+            "date": "2020-04-13T18:30:00.000Z",
+            "confirmed": 60,
+            "active": 41,
+            "recovered": 18,
+            "deceased": 1,
+            "testing": 5537
+        },
+        {
+            "date": "2020-04-14T18:30:00.000Z",
+            "confirmed": 60,
+            "active": 40,
+            "recovered": 19,
+            "deceased": 1,
+            "testing": 6734
+        },
+        {
+            "date": "2020-04-15T18:30:00.000Z",
+            "confirmed": 60,
+            "active": 40,
+            "recovered": 19,
+            "deceased": 1,
+            "testing": 7577
+        },
+        {
+            "date": "2020-04-16T18:30:00.000Z",
+            "confirmed": 60,
+            "active": 38,
+            "recovered": 21,
+            "deceased": 1,
+            "testing": 8619
+        },
+        {
+            "date": "2020-04-17T18:30:00.000Z",
+            "confirmed": 61,
+            "active": 36,
+            "recovered": 24,
+            "deceased": 1,
+            "testing": 9690
+        },
+        {
+            "date": "2020-04-18T18:30:00.000Z",
+            "confirmed": 68,
+            "active": 43,
+            "recovered": 24,
+            "deceased": 1,
+            "testing": 10641
+        },
+        {
+            "date": "2020-04-19T18:30:00.000Z",
+            "confirmed": 79,
+            "active": 53,
+            "recovered": 25,
+            "deceased": 1,
+            "testing": 11748
+        },
+        {
+            "date": "2020-04-20T18:30:00.000Z",
+            "confirmed": 82,
+            "active": 51,
+            "recovered": 30,
+            "deceased": 1,
+            "testing": 13775
+        },
+        {
+            "date": "2020-04-21T18:30:00.000Z",
+            "confirmed": 83,
+            "active": 50,
+            "recovered": 32,
+            "deceased": 1,
+            "testing": 15984
+        },
+        {
+            "date": "2020-04-22T18:30:00.000Z",
+            "confirmed": 90,
+            "active": 56,
+            "recovered": 33,
+            "deceased": 1,
+            "testing": 18458
+        },
+        {
+            "date": "2020-04-23T18:30:00.000Z",
+            "confirmed": 94,
+            "active": 60,
+            "recovered": 33,
+            "deceased": 1,
+            "testing": 20599
+        },
+        {
+            "date": "2020-04-24T18:30:00.000Z",
+            "confirmed": 103,
+            "active": 68,
+            "recovered": 34,
+            "deceased": 1,
+            "testing": 22816
+        },
+        {
+            "date": "2020-04-25T18:30:00.000Z",
+            "confirmed": 103,
+            "active": 67,
+            "recovered": 35,
+            "deceased": 1,
+            "testing": 0
+        }
+    ],
+    "gender": [
+        {
+            "male": 75,
+            "female": 28
+        }
+    ],
+    "dist": [
+        {
+            "code": "dist_1",
+            "name": "Bargarh",
+            "data": 0
+        },
+        {
+            "code": "dist_2",
+            "name": "Jharsuguda",
+            "data": 0
+        },
+        {
+            "code": "dist_3",
+            "name": "Sambalpur",
+            "data": 0
+        },
+        {
+            "code": "dist_4",
+            "name": "Debagarh",
+            "data": 0
+        },
+        {
+            "code": "dist_5",
+            "name": "Sundargarh",
+            "data": 6
+        },
+        {
+            "code": "dist_6",
+            "name": "Kendujhar",
+            "data": 0
+        },
+        {
+            "code": "dist_7",
+            "name": "Mayurbhanj",
+            "data": 0
+        },
+        {
+            "code": "dist_8",
+            "name": "Balasore",
+            "data": 10
+        },
+        {
+            "code": "dist_9",
+            "name": "Bhadrak",
+            "data": 16
+        },
+        {
+            "code": "dist_10",
+            "name": "kendrapada",
+            "data": 2
+        },
+        {
+            "code": "dist_11",
+            "name": "Jagatsinghapur",
+            "data": 0
+        },
+        {
+            "code": "dist_12",
+            "name": "Cuttuck",
+            "data": 1
+        },
+        {
+            "code": "dist_13",
+            "name": "Jajpur",
+            "data": 18
+        },
+        {
+            "code": "dist_14",
+            "name": "Dhenkanal",
+            "data": 1
+        },
+        {
+            "code": "dist_15",
+            "name": "Angul",
+            "data": 0
+        },
+        {
+            "code": "dist_16",
+            "name": "Nayagarh",
+            "data": 0
+        },
+        {
+            "code": "dist_17",
+            "name": "Khordha",
+            "data": 46
+        },
+        {
+            "code": "dist_18",
+            "name": "Puri",
+            "data": 1
+        },
+        {
+            "code": "dist_19",
+            "name": "Ganjam",
+            "data": 0
+        },
+        {
+            "code": "dist_20",
+            "name": "Gajapati",
+            "data": 0
+        },
+        {
+            "code": "dist_21",
+            "name": "Kandhamal",
+            "data": 0
+        },
+        {
+            "code": "dist_22",
+            "name": "Baudh",
+            "data": 0
+        },
+        {
+            "code": "dist_23",
+            "name": "Sonpur",
+            "data": 0
+        },
+        {
+            "code": "dist_24",
+            "name": "Balangir",
+            "data": 0
+        },
+        {
+            "code": "dist_25",
+            "name": "Nuapada",
+            "data": 0
+        },
+        {
+            "code": "dist_26",
+            "name": "Kalahandi",
+            "data": 2
+        },
+        {
+            "code": "dist_27",
+            "name": "Raygada",
+            "data": 0
+        },
+        {
+            "code": "dist_28",
+            "name": "Nabarangpur",
+            "data": 0
+        },
+        {
+            "code": "dit_29",
+            "name": "Koraput",
+            "data": 0
+        },
+        {
+            "code": "dist_30",
+            "name": "Malkangiri",
+            "data": 0
+        }
+    ],
+    "age group": [
+        {
+            "age": "0-14",
+            "num": 10
+        },
+        {
+            "age": "15-40",
+            "num": 48
+        },
+        {
+            "age": "41-60",
+            "num": 34
+        },
+        {
+            "age": "61-Above",
+            "num": 11
+        }
+    ],
+    "summary": [
+        {
+            "total": 103,
+            "active": 67,
+            "recovered": 35,
+            "deceased": 1
+        }
+    ]
+}

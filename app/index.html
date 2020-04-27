@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Odisha | COVID-19</title>
+    <link rel="icon" href="https://image.flaticon.com/icons/svg/2659/2659970.svg" type="image/svg" sizes="16x16">
+    <!-- update the version number as needed -->
+    <script defer src="/__/firebase/7.14.1/firebase-app.js"></script>
+    <!-- include only the Firebase features as you need -->
+    <script defer src="/__/firebase/7.14.1/firebase-auth.js"></script>
+    <script defer src="/__/firebase/7.14.1/firebase-database.js"></script>
+    <script defer src="/__/firebase/7.14.1/firebase-messaging.js"></script>
+    <script defer src="/__/firebase/7.14.1/firebase-storage.js"></script>
+    <!-- initialize the SDK after all desired features are loaded -->
+    <script defer src="/__/firebase/init.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+    <script src="app.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=BenchNine:wght@700&display=swap" rel="stylesheet">
+
+  </head>
+  <body>
+
+      <div>
+          <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+              <h3>COVID19 Status in Odisha</h3>
+              
+
+          </nav>
+          
+          <div class="text-center">
+            <p>
+                <a class="btn btn-primary active my-2" href="#">Overall Stats</a>
+                
+              
+                <a class="btn btn-primary my-2" href="#contact">Join Us</a>
+              </p>
+          </div>
+      </div>
+     
+      <div class="text-center">
+        <div class="summary-text" style="color: white;">
+          <div class="summary-total">
+            <h5 >Total </h5>
+            <h5 style="color: orange;">108</h5>
+            <div class="tot-map" style="width: 200px; height: 200px">
+              <canvas id="chart"></canvas>
+
+            </div>
+          </div>
+          <div class="summary-total">
+            <h5>Active</h5>
+            <h5 style="color: blue;">72</h5>
+            <div class="tot-map" style="width: 200px; height: 200px">
+              <canvas id="chart-act"></canvas>
+            </div>
+          </div>
+          <div class="summary-total">
+            <h5 >Recovered</h5>
+            <h5 style="color: green;">35</h5>
+            <div class="tot-map" style="width: 200px; height: 200px">
+              <canvas id="chart-recov"></canvas>
+            </div>
+          </div>
+          <div class="summary-total">
+            <h5>Deceased</h5>
+            <h5 style="color: red;">01</h5>
+            <div class="tot-map" style="width: 200px; height: 200px">
+              <canvas id="chart-dec"></canvas>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+        <div class="over text-center" style="margin: auto;">
+          <h4 style="color: white;">Day Wise Trend</h4>
+          <canvas id="trend"></canvas>
+        </div><br><br>
+       <div class="gend text-center" style="margin: auto">
+        <h4 style="color: white;">Male Vs Female Affected</h4>
+          
+          
+          <canvas id="gender"></canvas>
+        </div><br><br>
+        <div class="distr text-center" id="dist" style="margin: auto">
+          <h4 style="color: white;">Cumulative District Wise Data</h4><br>
+              <div>
+                
+              </div>
+              <!--<h5 style="color: white;">Cumulative Data</h5><br>-->
+              <div class="dist" style=" width: 400px; margin: auto;">
+                  <canvas id="draw_dist" ></canvas>
+              </div>
+          </div>
+          <br><br><br>
+          <div id="contact">
+            <div class="card text-center" style="width: 300px; opacity: 0.8;margin: auto; background-color: darkgrey;">
+              <div class="card-body">
+                
+                <h4 class="card-title">Join Hand With Us</h4>
+                <hr style="background-color: blue;">
+                
+                <a href="https://www.instagram.com/me_nimai/" style="width: 212px; margin-top:5px;" class="btn btn-danger"><i class="fa fa-instagram" aria-hidden="true">&nbsp&nbspJoin Instagram</i></a>
+                
+                <a href="https://t.me/covid19_odisha" style="width: 212px; margin-top:5px;" class="btn btn-primary"><i class="fa fa-telegram" aria-hidden="true">&nbsp&nbspJoin Telegram</i></a>
+                <a href="https://github.com/NimaiCharan/covid19-odisha" style="width: 212px; margin-top:5px;" class="btn btn-dark"><i class="fa fa-github" aria-hidden="true">&nbsp&nbspContribute Open-source</i></a>
+                <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTDmUDCxyB-rFoWJBSEuHQGObD3c7v1gJixURtHLf_6xiyjjBtU3-XgBfhrqvM2jM3Uwc-nVPkcoNb9/pubhtml" style="width: 212px; margin-top:5px;" class="btn btn-info"><i class="fa fa-database" aria-hidden="true">&nbsp&nbspCrowd-source Database</i></a>
+                <a onclick="alert('API: https://api.nextoniclabs.com/data.json')" href="#" style="width: 212px; margin-top:5px; border: 2px solid lightskyblue;" class="btn btn-basic"><i class="fa fa-terminal" aria-hidden="true">&nbsp&nbsp Open-source API</i></a>
+              
+              </div>
+
+            </div>
+          </div>
+          <br><br>
+
+
+      <script>
+       // let url="https://us-central1-covid19-odisha.cloudfunctions.net/getGender";
+        var data={};
+        async function getData()
+        {
+           // const response= await fetch(url);
+           // data=await response.json();
+            //console.log(data);
+
+        }
+
+
+        getData();
+       //draw_gender();
+      window.onload=load_contents();
+      
+      </script>
+
+  </body>
+  <!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.14.2/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.14.2/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyBR32GSOSrskOfuVNCRGvZH12sHmfutbhw",
+    authDomain: "covid19-odisha.firebaseapp.com",
+    databaseURL: "https://covid19-odisha.firebaseio.com",
+    projectId: "covid19-odisha",
+    storageBucket: "covid19-odisha.appspot.com",
+    messagingSenderId: "329731009524",
+    appId: "1:329731009524:web:b336c4b05b0aea2abd67a1",
+    measurementId: "G-5840EK2QV9"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
+  <footer style="background-color: green; color: white;"><marquee><b>N.B. </b> All the Data are from Crowd-source, There May not be 100% Accuracy</marquee></footer>
+</html>

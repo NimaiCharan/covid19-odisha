@@ -1,0 +1,59 @@
+@font-face
+{
+	font-family: "pacman";
+	src:url("fonts/pacman.ttf");
+}
+
+nav>h3
+{
+	text-align: center;
+	margin: auto;
+	font-family: 'BenchNine', sans-serif;
+	color: red;
+}
+
+body
+{
+	background-color: black;
+}
+
+.summary-total
+{
+	display: inline-block;
+	
+}
+#chart, #chart-act, #chart_dec, #chart_recov {
+	width: 150px;
+	height: 250px;
+	margin: auto;
+	
+  }
+ 
+
+  
+  /* For mobile phones: */
+  @media only screen and (max-width: 600px) {
+	  .col-5{ width: 80%;}
+	  #chart, #chart-act, #chart_dec, #chart_recov, #draw_dist
+	  {
+		  width: 80%;
+	  }
+	 
+	 
+	 
+  }
+  @media only screen and (min-width: 600px) {
+	.over, .gend
+	{
+		width: 500px;
+		
+	}
+	
+}
+
+
+
+
+
+
+
