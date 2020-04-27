@@ -23,10 +23,11 @@
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/css2?family=BenchNine:wght@700&display=swap" rel="stylesheet">
+    
 
   </head>
   <body>
-
+   
       <div>
           <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
               <h3>COVID19 Status in Odisha</h3>
@@ -38,17 +39,41 @@
             <p>
                 <a class="btn btn-primary active my-2" href="#">Overall Stats</a>
                 
-              
                 <a class="btn btn-primary my-2" href="#contact">Join Us</a>
               </p>
           </div>
       </div>
-     
+      <script>
+        var tot =  0;
+        var act=  0;
+        var rec = 0;
+        var dec = 0;
+          async function user()
+          {
+            var response =await  fetch("https://us-central1-covid19-odisha.cloudfunctions.net/getSummary");
+            data =await  response.json();
+            tot = data[0].total;
+            act = data[0].active;
+            rec = data[0].recovered;
+            dec =data[0].deceased;
+            window.onload=document.getElementById('taa').innerHTML=tot;
+            window.onload=document.getElementById('aaa').innerHTML=act;
+            window.onload=document.getElementById('raa').innerHTML=rec;
+            window.onload=document.getElementById('daa').innerHTML=dec;
+            console.log(tot)
+          }
+          user();
+          
+          
+          
+          //console.log(window.tot);
+      </script>
       <div class="text-center">
         <div class="summary-text" style="color: white;">
           <div class="summary-total">
             <h5 >Total </h5>
-            <h5 style="color: orange;">111</h5>
+                
+                <h5 style="color: orange;" id="taa"></h5>
             <div class="tot-map" style="width: 200px; height: 200px">
               <canvas id="chart"></canvas>
 
@@ -56,27 +81,28 @@
           </div>
           <div class="summary-total">
             <h5>Active</h5>
-            <h5 style="color: blue;">73</h5>
+            <h5 style="color: blue;" id="aaa"></h5>
             <div class="tot-map" style="width: 200px; height: 200px">
               <canvas id="chart-act"></canvas>
             </div>
           </div>
           <div class="summary-total">
             <h5 >Recovered</h5>
-            <h5 style="color: green;">37</h5>
+            <h5 style="color: green;" id="raa"></h5>
             <div class="tot-map" style="width: 200px; height: 200px">
               <canvas id="chart-recov"></canvas>
             </div>
           </div>
           <div class="summary-total">
             <h5>Deceased</h5>
-            <h5 style="color: red;">01</h5>
+            <h5 style="color: red;" id="daa"></h5>
             <div class="tot-map" style="width: 200px; height: 200px">
               <canvas id="chart-dec"></canvas>
             </div>
           </div>
         </div>
       </div>
+
       
         <div class="over text-center" style="margin: auto;">
           <h4 style="color: white;">Day Wise Trend</h4>
