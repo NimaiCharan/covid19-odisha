@@ -457,6 +457,7 @@
             "agebracket": 58,
             "currentstatus": "Hospitalized",
             "dateannounced": "2020-04-17T18:30:00.000Z",
+            "detectedcity": "Neliabag",
             "detecteddistrict": "Baleshwar",
             "gender": "M"
         },
@@ -513,6 +514,7 @@
             "agebracket": 2,
             "currentstatus": "Hospitalized",
             "dateannounced": "2020-04-19T18:30:00.000Z",
+            "detectedcity": "Rigidi, behrempur",
             "detecteddistrict": "Baleshwar",
             "gender": "F"
         },
@@ -521,6 +523,7 @@
             "agebracket": 40,
             "currentstatus": "Hospitalized",
             "dateannounced": "2020-04-19T18:30:00.000Z",
+            "detectedcity": "Bisra",
             "detecteddistrict": "Sundargarh",
             "gender": "M"
         },
@@ -589,33 +592,174 @@
             "patientnumber": 82
         },
         {
-            "patientnumber": 83
+            "patientnumber": 83,
+            "agebracket": 38,
+            "dateannounced": "2020-04-21T18:30:00.000Z",
+            "detectedcity": "Dasarathpur",
+            "detecteddistrict": "Jajpur",
+            "gender": "M"
         },
         {
-            "patientnumber": 84
+            "patientnumber": 84,
+            "agebracket": 70,
+            "dateannounced": "2020-04-22T18:30:00.000Z",
+            "detectedcity": "Kodeibati, Dasarathpur",
+            "detecteddistrict": "Jajpur",
+            "gender": "F"
         },
         {
-            "patientnumber": 85
+            "patientnumber": 85,
+            "agebracket": 21,
+            "dateannounced": "2020-04-22T18:30:00.000Z",
+            "detectedcity": "Jahanpur",
+            "detecteddistrict": "Jajpur"
         },
         {
-            "patientnumber": 86
+            "patientnumber": 86,
+            "agebracket": 48,
+            "dateannounced": "2020-04-22T18:30:00.000Z",
+            "detectedcity": "Basudevpur",
+            "detecteddistrict": "Jajpur"
         },
         {
-            "patientnumber": 87
+            "patientnumber": 87,
+            "agebracket": 80,
+            "dateannounced": "2020-04-22T18:30:00.000Z",
+            "detectedcity": "Basudevpur",
+            "detecteddistrict": "Jajpur"
         },
         {
-            "patientnumber": 88
+            "patientnumber": 88,
+            "agebracket": 36,
+            "dateannounced": "2020-04-22T18:30:00.000Z",
+            "detectedcity": "Neliabag",
+            "detecteddistrict": "Balasore",
+            "gender": "M"
         },
         {
-            "patientnumber": 89
+            "patientnumber": 89,
+            "agebracket": 55,
+            "dateannounced": "2020-04-22T18:30:00.000Z",
+            "detectedcity": "Neliabag",
+            "detecteddistrict": "Balasore",
+            "gender": "F"
         },
         {
             "patientnumber": 90,
-            "agebracket": 40,
-            "currentstatus": "hospitalized",
+            "agebracket": 43,
+            "currentstatus": "Hospitalized",
             "dateannounced": "2020-04-23T18:30:00.000Z",
-            "detecteddistrict": "bhadrak",
+            "detectedcity": "Brahamanisasan,Basudevpur",
+            "detecteddistrict": "Bhadrak",
             "gender": "M"
+        },
+        {
+            "patientnumber": 91,
+            "agebracket": 40,
+            "dateannounced": "2020-04-23T18:30:00.000Z",
+            "detectedcity": "Mathsahi, Tihidi",
+            "detecteddistrict": "Bhadrak",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 92,
+            "agebracket": 41,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-23T18:30:00.000Z",
+            "detectedcity": "Pirahat, Kanpur, Tihidi",
+            "detecteddistrict": "Bhadrak",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 93,
+            "agebracket": 29,
+            "currentstatus": "Hospitalize",
+            "dateannounced": "2020-04-23T18:30:00.000Z",
+            "detectedcity": "Dhamnagar",
+            "detecteddistrict": "Bhadrak",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 94,
+            "agebracket": 24,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-23T18:30:00.000Z",
+            "detectedcity": "Kalyani, Dhamnagar",
+            "detecteddistrict": "Bhadrak",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 95,
+            "agebracket": 23,
+            "currentstatus": "hospitalized",
+            "dateannounced": "2020-04-25T18:30:00.000Z",
+            "detectedcity": "Dasarathpur",
+            "detecteddistrict": "Jajpur",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 96,
+            "agebracket": 57,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-25T18:30:00.000Z",
+            "detectedcity": "Dasarathpur",
+            "detecteddistrict": "Jajpur",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 97,
+            "agebracket": 49,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-25T18:30:00.000Z",
+            "detectedcity": "Dasarathpur",
+            "detecteddistrict": "Jajpur",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 98,
+            "agebracket": 52,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-25T18:30:00.000Z",
+            "detectedcity": "Dasarathpur",
+            "detecteddistrict": "Jajpur",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 99,
+            "agebracket": 39,
+            "currentstatus": "Hospitalized",
+            "dateannounced": "2020-04-25T18:30:00.000Z",
+            "detectedcity": "Dasarathpur",
+            "detecteddistrict": "Jajpur",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 100,
+            "agebracket": 50,
+            "currentstatus": "Hospi",
+            "dateannounced": "2020-04-25T18:30:00.000Z",
+            "detectedcity": "Dasarathpur",
+            "detecteddistrict": "Jajpur",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 101,
+            "agebracket": 57,
+            "dateannounced": "2020-04-24T18:30:00.000Z",
+            "detectedcity": "Gudgudjor,Bisra",
+            "detecteddistrict": "Sundargarh",
+            "gender": "F"
+        },
+        {
+            "patientnumber": 102,
+            "agebracket": 23,
+            "dateannounced": "2020-04-24T18:30:00.000Z",
+            "detectedcity": "Gudgudjor,Bisra",
+            "detecteddistrict": "Sundargarh",
+            "gender": "M"
+        },
+        {
+            "patientnumber": 103
         }
     ],
     "numbers": [
@@ -909,17 +1053,32 @@
         },
         {
             "date": "2020-04-25T18:30:00.000Z",
-            "confirmed": 103,
-            "active": 67,
+            "confirmed": 108,
+            "active": 72,
             "recovered": 35,
             "deceased": 1,
-            "testing": 0
+            "testing": 25103
+        },
+        {
+            "date": "2020-04-26T18:30:00.000Z",
+            "confirmed": 118,
+            "active": 80,
+            "recovered": 37,
+            "deceased": 1,
+            "testing": 26687
+        },
+        {
+            "date": "2020-04-27T18:30:00.000Z",
+            "confirmed": 118,
+            "active": 80,
+            "recovered": 37,
+            "deceased": 1
         }
     ],
     "gender": [
         {
-            "male": 75,
-            "female": 28
+            "male": 84,
+            "female": 34
         }
     ],
     "dist": [
@@ -946,7 +1105,7 @@
         {
             "code": "dist_5",
             "name": "Sundargarh",
-            "data": 6
+            "data": 10
         },
         {
             "code": "dist_6",
@@ -961,12 +1120,12 @@
         {
             "code": "dist_8",
             "name": "Balasore",
-            "data": 10
+            "data": 16
         },
         {
             "code": "dist_9",
             "name": "Bhadrak",
-            "data": 16
+            "data": 19
         },
         {
             "code": "dist_10",
@@ -986,7 +1145,7 @@
         {
             "code": "dist_13",
             "name": "Jajpur",
-            "data": 18
+            "data": 19
         },
         {
             "code": "dist_14",
@@ -1066,7 +1225,7 @@
         {
             "code": "dit_29",
             "name": "Koraput",
-            "data": 0
+            "data": 1
         },
         {
             "code": "dist_30",
@@ -1081,11 +1240,11 @@
         },
         {
             "age": "15-40",
-            "num": 48
+            "num": 60
         },
         {
             "age": "41-60",
-            "num": 34
+            "num": 37
         },
         {
             "age": "61-Above",
@@ -1094,9 +1253,9 @@
     ],
     "summary": [
         {
-            "total": 103,
-            "active": 67,
-            "recovered": 35,
+            "total": 118,
+            "active": 80,
+            "recovered": 37,
             "deceased": 1
         }
     ]
